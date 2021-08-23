@@ -34,7 +34,7 @@ public class EmailUtil {
 		try
 	    {
 		  	
-		  final String fromEmail = "sowmiyanagarajan98@gmail.com"; //requires valid gmail id
+		  final String fromEmail = "<your-mail-id-here>"; //requires valid gmail id
 		  final String password = "Myuncleisthecoolestperson"; // correct password for gmail id
 		 
 		  Authenticator auth = new Authenticator() {
